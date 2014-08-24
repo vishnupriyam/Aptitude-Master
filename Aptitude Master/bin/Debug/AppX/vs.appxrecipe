@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MVLRA-VAIO</Machine>
+    <WindowsUser>mvlra</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8027a88f-d87a-4345-b01a-77b8100cc291</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A7BFA21EB201C9071DC3CA7A499167E00346711737574957B0FB086A232D42C7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8027a88f-d87a-4345-b01a-77b8100cc291_1.0.0.0_neutral__5b9y6zjahc2mr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8027a88f-d87a-4345-b01a-77b8100cc291_5b9y6zjahc2mr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8027a88f-d87a-4345-b01a-77b8100cc291</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mvlra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T14:17:13.894</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.exe">
+      <PackagePath>Aptitude Master.exe</PackagePath>
+      <Modified>2014-08-24T14:17:13.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\33.scale-140.png">
+      <PackagePath>Assets\33.scale-140.png</PackagePath>
+      <Modified>2014-08-24T13:48:31.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\apt.png">
+      <PackagePath>Assets\apt.png</PackagePath>
+      <Modified>2014-08-24T14:02:46.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\loading2.png">
+      <PackagePath>Assets\loading2.png</PackagePath>
+      <Modified>2014-08-24T14:15:55.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\loading3.png">
+      <PackagePath>Assets\loading3.png</PackagePath>
+      <Modified>2014-08-24T14:17:01.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T12:06:57.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:09:50.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo120.png">
+      <PackagePath>Assets\Logo120.png</PackagePath>
+      <Modified>2014-08-24T13:09:50.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo140.scale-100.png">
+      <PackagePath>Assets\Logo140.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo140.scale-140.png">
+      <PackagePath>Assets\Logo140.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\logo30X30.scale-140.png">
+      <PackagePath>Assets\logo30X30.scale-140.png</PackagePath>
+      <Modified>2014-08-24T13:48:31.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T14:11:11.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T14:15:55.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:24:40.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:23:26.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:26:01.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo50.png">
+      <PackagePath>Assets\StoreLogo50.png</PackagePath>
+      <Modified>2014-08-24T13:24:40.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo90.png">
+      <PackagePath>Assets\StoreLogo90.png</PackagePath>
+      <Modified>2014-08-24T13:26:01.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\apt.png">
+      <PackagePath>Images\apt.png</PackagePath>
+      <Modified>2014-08-24T14:02:31.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:42:44.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T13:15:54.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-24T14:17:01.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\eg.jpg">
+      <PackagePath>Images\eg.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\formula.jpg">
+      <PackagePath>Images\formula.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\age.jpg">
+      <PackagePath>Images\age.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\alligation.jpg">
+      <PackagePath>Images\alligation.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\aptitude.jpg">
+      <PackagePath>Images\aptitude.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\average.jpg">
+      <PackagePath>Images\average.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\first.jpg">
+      <PackagePath>Images\first.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\first1.jpg">
+      <PackagePath>Images\first1.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\percentage.jpg">
+      <PackagePath>Images\percentage.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\probability.jpg">
+      <PackagePath>Images\probability.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q2.jpg">
+      <PackagePath>Images\q2.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q3.jpg">
+      <PackagePath>Images\q3.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q6.jpg">
+      <PackagePath>Images\q6.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\questionTime.jpg">
+      <PackagePath>Images\questionTime.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\trains.jpg">
+      <PackagePath>Images\trains.jpg</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Test.xbf">
+      <PackagePath>Test.xbf</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Test2.xbf">
+      <PackagePath>Test2.xbf</PackagePath>
+      <Modified>2014-08-22T10:19:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.xr.xml">
+      <PackagePath>Aptitude Master.xr.xml</PackagePath>
+      <Modified>2014-08-24T13:20:57.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-24T14:17:13.817</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

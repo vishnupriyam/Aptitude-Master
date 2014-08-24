@@ -1,0 +1,47 @@
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\App.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\ItemsPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\SplitPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Test.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.xr.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.exe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.pdb
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\resources.pri
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\AppxManifest.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Aptitude Master.build.appxrecipe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\App.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\App.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\ItemsPage.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\ItemsPage.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\SplitPage.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\SplitPage.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\App.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\ItemsPage.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\SplitPage.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\App.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\ItemsPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\SplitPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Aptitude Master.exe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Aptitude Master.pdb
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\priconfig.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\priconfig.xml.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\layout.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\layout.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\resources.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\resources.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\pri.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\pri.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\qualifiers.txt
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\ProjectArchitectures.txt
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Debug\Test2.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test2.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test2.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test2.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Debug\Test2.xbf

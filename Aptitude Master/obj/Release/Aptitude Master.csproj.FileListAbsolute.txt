@@ -1,0 +1,94 @@
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\App.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\ItemsPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\SplitPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Test.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Test2.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.xr.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.exe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.pdb
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\resources.pri
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\AppxManifest.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.build.appxrecipe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\App.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\App.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\ItemsPage.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\ItemsPage.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\SplitPage.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\SplitPage.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test2.g.i.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test2.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\XamlTypeInfo.g.cs
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\App.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\ItemsPage.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\SplitPage.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test2.xaml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\App.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\ItemsPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\SplitPage.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Test2.xbf
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\XamlSaveStateFile.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Aptitude Master.exe
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\Aptitude Master.pdb
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\priconfig.xml
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\priconfig.xml.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\layout.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\layout.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\resources.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\resources.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\pri.resfiles
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\pri.resfiles.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\qualifiers.txt
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\qualifiers.txt.intermediate
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvlra\documents\visual studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\ProjectArchitectures.txt
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\App.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\ItemsPage.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\SplitPage.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Test.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Test2.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Aptitude Master.xr.xml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Aptitude Master.exe
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Aptitude Master.pdb
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\resources.pri
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\AppxManifest.xml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\bin\Release\Aptitude Master.build.appxrecipe
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\App.g.i.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\App.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\ItemsPage.g.i.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\ItemsPage.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\SplitPage.g.i.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\SplitPage.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test.g.i.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test2.g.i.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test2.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\XamlTypeInfo.g.cs
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\App.xaml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\ItemsPage.xaml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\SplitPage.xaml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test.xaml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test2.xaml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\App.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\ItemsPage.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\SplitPage.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Test2.xbf
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\XamlSaveStateFile.xml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Aptitude Master.exe
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\Aptitude Master.pdb
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\priconfig.xml
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\priconfig.xml.intermediate
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\layout.resfiles
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\layout.resfiles.intermediate
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\resources.resfiles
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\resources.resfiles.intermediate
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\pri.resfiles
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\pri.resfiles.intermediate
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\qualifiers.txt
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\qualifiers.txt.intermediate
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvlra\Downloads\windowsApp-master\Aptitude Master\obj\Release\ProjectArchitectures.txt

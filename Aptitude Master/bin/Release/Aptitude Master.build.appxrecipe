@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MVLRA-VAIO</Machine>
+    <WindowsUser>mvlra</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8027a88f-d87a-4345-b01a-77b8100cc291</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.exe">
+      <PackagePath>Aptitude Master.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\33.scale-140.png">
+      <PackagePath>Assets\33.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\apt.png">
+      <PackagePath>Assets\apt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\loading2.png">
+      <PackagePath>Assets\loading2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\loading3.png">
+      <PackagePath>Assets\loading3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo120.png">
+      <PackagePath>Assets\Logo120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo140.scale-100.png">
+      <PackagePath>Assets\Logo140.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo140.scale-140.png">
+      <PackagePath>Assets\Logo140.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\logo30X30.scale-140.png">
+      <PackagePath>Assets\logo30X30.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo50.png">
+      <PackagePath>Assets\StoreLogo50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\StoreLogo90.png">
+      <PackagePath>Assets\StoreLogo90.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\apt.png">
+      <PackagePath>Images\apt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\eg.jpg">
+      <PackagePath>Images\eg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\formula.jpg">
+      <PackagePath>Images\formula.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\age.jpg">
+      <PackagePath>Images\age.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\alligation.jpg">
+      <PackagePath>Images\alligation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\aptitude.jpg">
+      <PackagePath>Images\aptitude.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\average.jpg">
+      <PackagePath>Images\average.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\first.jpg">
+      <PackagePath>Images\first.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\first1.jpg">
+      <PackagePath>Images\first1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\percentage.jpg">
+      <PackagePath>Images\percentage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\probability.jpg">
+      <PackagePath>Images\probability.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q2.jpg">
+      <PackagePath>Images\q2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q3.jpg">
+      <PackagePath>Images\q3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\q6.jpg">
+      <PackagePath>Images\q6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\questionTime.jpg">
+      <PackagePath>Images\questionTime.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\Images\trains.jpg">
+      <PackagePath>Images\trains.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Test.xbf">
+      <PackagePath>Test.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Test2.xbf">
+      <PackagePath>Test2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\Aptitude Master.xr.xml">
+      <PackagePath>Aptitude Master.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mvlra\Documents\Visual Studio 2013\Projects\Aptitude Master\Aptitude Master\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

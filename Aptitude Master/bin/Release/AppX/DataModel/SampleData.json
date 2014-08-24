@@ -1,0 +1,212 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "AGES",
+    "Subtitle": " ",
+    "ImagePath": "Images/age.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "Important Formulae",
+        "Subtitle": "",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "\n\nFor most of the questions in this topic, two or more linear equations will be obtained. Solve those equations to get the answer.\n\nImportant Formulas on Problems on Ages :\n\n\n1. If the current age is x, then n times the age is nx.\n2. If the current age is x, then age n years later hence = x + n.\n3. If the current age is x, then age n years ago = x - n.\n4. The ages in a ratio a : b will be ax and bx.\n5. If the current age is x, then 1/n of the age is x/n"
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "Example",
+        "Subtitle": " ",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "QUESTION :\n\n 10 years ago, a father was four times as old as his son.10 years hence, he will be twice as old as his son.Find the son's present age \n\n SOLUTION: \n\nlet the father's present age be F and the son's age be S.\n\n10 years ago : \n\t (F-10)=4(S-10) \n\t F=4S-30 \n 10 years hence: \n\t(F+10) = 2(S+10)\n \t F-2S=10\nReplacing F with 4S-30,\n \t (4S-10)-2S=10\n\tS=20\nSon's Present age = 20"
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "General questions",
+        "Subtitle": " ",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1. The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:\n\t ANSWER : 7:3\n\n2.Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?\n\tANSWER: Data Inadequate\n\n3.A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?\n\tANSWER: 40 years"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "AVERAGE",
+    "Subtitle": " ",
+    "ImagePath": "Images/average.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Important Formulae",
+        "Subtitle": " ",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1. Average : \n\n\t Average = (Sum Of Observations/ Number Of Observations)\n\n2.Average Speed :\n\n\t\t Suppose a man covers a certain distance at x kmph and an equal distance at y kmph.\nThen, the average speed druing the whole journey is (2xy/x+y) kmph"
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "Example",
+        "Subtitle": " ",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "\n\nQUESTION : \n\nIn the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?\n\n ANSWER : \n\n\tRequired Run Rate \n\t\t= (Target - (Obtained runs))/No. of overs \n\t\t= (250-(3.2*10))/40 \n\t\t= 250/40 = 6.25"
+      },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "General Questions",
+        "Subtitle": " ",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:\n\tANSWER: 4000\n\n2.The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:\n\tANSWER: 40 years\n\n3.A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?\n\tANSWER:Rs7.98"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "ALLIGATION OR MIXTURE",
+    "Subtitle": " ",
+    "ImagePath": "Images/alligation.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "Important Formulae",
+        "Subtitle": " ",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1. Alligation: \n\n\tIt is the rule that enables us to find the ratio in which two or more ingredients at the given price must be mixed to produce a mixture of desired price.\n\n2.Mean Price:\n\n\tThe cost of a unit quantity of the mixture is called the mean price.\n\n3.Rule Of Alligation:\n\n\tIf two ingredients are mixed, then (quantity of cheaper / quantity of dearer) = ((C.P of dearer - mean price)/(Mean Price - C.P of cheaper))\n\n4.Suppose a container contains x of liquid from which y units are taken out and replaced by water.After n operations, the quantity of pure liquid =[x(1-y/x)^n] units"
+      },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "Example",
+        "Subtitle": " ",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "QUESTION : \n\n\tIn what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?\n\nANSWER:\n\n\tBy rule of alligation the ratio = (20-16.5)/(16.5-15) = 3.50 / 1.50 = 7:3"
+      },
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "General Questions",
+        "Subtitle": " ",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?\n\tANSWER: 63 kg\n\n2.A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:\n\tANSWER: 2/3\n\n3.A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?\n\tANSWER: 29.16 litres"
+      }
+      
+    ]
+  },
+  {
+    "UniqueId": "Group-4",
+    "Title": "PERCENTAGES",
+    "Subtitle": " ",
+    "ImagePath": "Images/percentage.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Title": "Important Formulae",
+        "Subtitle": "",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Concept of Percentage:\n\tBy a certain percent, we mean that many hundredths.\n\tThus, x percent means x hundredths, written as x%.\n\tTo express x% as a fraction: We have, x% =x.100\n\tTo express a/b as a percent: We have, a/b = ((a/b)x 100)%\n\nPercentage Increase/Decrease:\n\nIf the price of a commodity increases by R%, then the reduction in consumption so as not to increase the expenditure is:\n\t[R*(100 + R)]*100%\nIf the price of a commodity decreases by R%, then the increase in consumption so as not to decrease the expenditure is:\n\t[R *(100 - R)]*100%\n\nResults on Population:\n\nLet the population of a town be P now and suppose it increases at the rate of R% per annum, then:\n\t1. Population after n years = P[(1 +R/100)^n]\n\t2. Population n years ago =P/[(1+R/100)^n]\n\nResults on Depreciation:\n\n\tLet the present value of a machine be P. Suppose it depreciates at the rate of R% per annum. Then:\n\n\t1. Value of the machine after n years = P[(1-R/100)^n]\n\t2. Value of the machine n years ago =p/[(1-R/100)^n]\n\t3.If A is R% more than B, then B is less than A by [(R/(100+R)]*100% \n\tIf A is R% less than B, then B is more than A by [(R/(100-R)]*100% "
+       },
+      {
+        "UniqueId": "Group-4-Item-2",
+        "Title": "Example",
+        "Subtitle": "",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "QUESTION:\n\n\tTwo students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are? \n\nANSWER:\n\n\tLet their marks be (x + 9) and x.\n\tThen, x + 9 =(56/100)*(x+9+x)\n\t=>25(x+9)=14(2x+9)\n\tx=33\n\tSo their marks are 42 and 33"
+      },
+      {
+        "UniqueId": "Group-4-Item-3",
+        "Title": "General questions",
+        "Subtitle": "",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:\n\tANSWER: 700 apples.\n\n2.What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?\n\tANSWER:20%"
+      }
+      
+    ]
+  },
+  {
+    "UniqueId": "Group-5",
+    "Title": "PROBABILITY",
+    "Subtitle": " ",
+    "ImagePath": "Images/probability.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-5-Item-1",
+        "Title": "Important Formulae",
+        "Subtitle": " ",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Experiment:\n\n\tAn operation which can produce some well-defined outcomes is called an experiment.\n\nRandom Experiment:\n\n\tAn experiment in which all possible outcomes are know and the exact output cannot be predicted in advance, is called a random experiment.\n\tExamples:\n\tRolling an unbiased dice.\n\tTossing a fair coin.\n\tDrawing a card from a pack of well-shuffled cards.\n\tPicking up a ball of certain colour from a bag containing balls of different colours.\n\nDetails:\n\n\tWhen we throw a coin, then either a Head (H) or a Tail (T) appears.\n\tA dice is a solid cube, having 6 faces, marked 1, 2, 3, 4, 5, 6 respectively. When we throw a die, the outcome is the number that appears on its upper face.\n\tA pack of cards has 52 cards.\n\tIt has 13 cards of each suit, name Spades, Clubs, Hearts and Diamonds.\n\tCards of spades and clubs are black cards.\n\tCards of hearts and diamonds are red cards.\n\tThere are 4 honours of each unit.\n\tThere are Kings, Queens and Jacks. These are all called face cards.Sample Space:\n\tWhen we perform an experiment, then the set S of all possible outcomes is called the sample space.\n\tExamples:\n\tIn tossing a coin, S = {H, T}\n\tIf two coins are tossed, the S = {HH, HT, TH, TT}.\n\tIn rolling a dice, we have, S = {1, 2, 3, 4, 5, 6}.\n\nEvent:\n\tAny subset of a sample space is called an event.\n\tProbability of Occurrence of an Event:\n\tLet S be the sample and let E be an event.\n\tThen, E is subset of S.Results on Probability:\n\tP(S) = 1\n\t0 <=P(E)<= 1\n\tP(emptySet) = 0For any events A and B we have : P(AUB) = P(A) + P(B) - P(A^B)\n\tIf A denotes (not-A), then P(A) = 1 - P(A)."
+      },
+      {
+        "UniqueId": "Group-5-Item-2",
+        "Title": "Example",
+        "Subtitle": " ",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "QUESTION :\n\n\t Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even? \n\nANSWER : \n\nIn a simultaneous throw of two dice, we have n(S) = (6 x 6) = 36.\nThen, E = {(1, 2), (1, 4), (1, 6),(2, 1),(2, 2),(2, 3),(2, 4),(2, 5),(2, 6),(3, 2),(3, 4),(3, 6),(4, 1), (4, 2),(4, 3),(4, 4),(4, 5),(4, 6),(5, 2),(5, 4),(5, 6),(6, 1),(6, 2),(6, 3),(6, 4),(6, 5),(6, 6)}\nn(E) = 27.\nP(E)=n(E)/n(S) = 27/36 = 3/4"
+      },
+      {
+        "UniqueId": "Group-5-Item-3",
+        "Title": "General Questions",
+        "Subtitle": "",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?\n\tANSWER:2/7\n\n2.Two dice are tossed. The probability that the total score is a prime number is:\n\tANSWER:5/12"
+      }
+      
+    ]
+  },
+  {
+    "UniqueId": "Group-6",
+    "Title": "PROBLEMS ON TRAINS",
+    "Subtitle": "",
+    "ImagePath": "Images/trains.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-6-Item-1",
+        "Title": "Important formulae",
+        "Subtitle": " ",
+        "ImagePath": "Images/formula.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.km/hr to m/s conversion:\na1. km/hr = a x (5/18) m/s\n\n2. m/s to km/hr conversion:\na m/s =a x (18/5)km/hr.\n\n3.Formulas for finding Speed, Time and Distance\n\n4.Time taken by a train of length l metres to pass a pole or standing man or a signal post is equal to the time taken by the train to cover l metres.\n\n5.Time taken by a train of length l metres to pass a stationery object of length b metres is the time taken by the train to cover (l + b) metres.\n\n6.Suppose two trains or two objects bodies are moving in the same direction at u m/s and v m/s, where u>v, then their relative speed is = (u - v) m/s.\n\n7.Suppose two trains or two objects bodies are moving in opposite directions at u m/s and v m/s, then their relative speed is = (u + v) m/s.\n\n8.If two trains of length a metres and b metres are moving in opposite directions at u m/s and v m/s, then:The time taken by the trains to cross each other =(a+b)/(u+v) sec\n\n9.If two trains of length a metres and b metres are moving in the same direction at u m/s and v m/s, then:\nThe time taken by the faster train to cross the slower train =(a+b)/(u-v) sec\n\n10.If two trains (or bodies) start at the same time from points A and B towards each other and after crossing they take a and b sec in reaching B and A respectively, then:(A's speed):(B's speed)=(b : a)"
+      },
+      {
+        "UniqueId": "Group-6-Item-2",
+        "Title": "Example",
+        "Subtitle": " ",
+        "ImagePath": "Images/eg.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "QUESTION :\n A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform? \n\nANSWER : \nSpeed = 54*(5/18)m/s=15m/sLength of the train = (15 x 20)m = 300 m.\nLet the length of the platform be x metres.\nThen, (x+300)/36=15\nx+300=540\nx=240\nTherefore,the length of the train is 240m "
+      },
+      {
+        "UniqueId": "Group-6-Item-3",
+        "Title": "General Questions",
+        "Subtitle": " ",
+        "ImagePath": "Images/questionTime.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "1.How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?\n\tANSWER:30s.\n\n2.Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.\n\tANSWER:24s\n\n3.Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?\n\tANSWER:12s"
+      }
+      
+    ]
+  }
+  
+]
+}
